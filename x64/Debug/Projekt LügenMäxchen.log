@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Projekt LügenMäxchen.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Projekt LügenMäxchen.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,1): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Users\Tobias Bornscheuer\source\repos\Projekt LügenMäxchen\Projekt LügenMäxchen.cpp(198,8): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "KonsolenAnwendung"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
